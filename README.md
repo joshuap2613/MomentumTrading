@@ -1,7 +1,7 @@
 # MomentumTrading
 Possible Trading Strategy using Relative Momentums
 
-To Run the notebook, I created a virtual environment so that we are all on the same page. To run the virtual environment type navigate to where you cloned this repository and type in
+To Run the notebook, I created a virtual environment so that we are all on the same page. To run the virtual environment navigate to where you cloned this repository in terminal/command line and type in
 
 "source venv/bin/activate"
 
